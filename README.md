@@ -67,10 +67,6 @@ https://www.yubico.com/products/yubikey-hardware/
 
 https://www.yubico.com/store/
 
-https://www.amazon.com/Yubico/b/ref=bl_dp_s_web_10358012011?ie=UTF8&node=10358012011
-
-Consider purchasing a pair and programming both in case of loss or damage to one of them.
-
 # Install required software
 
 You will need to install the following software:
